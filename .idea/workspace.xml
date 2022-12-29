@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8e1a0e9-5535-48a0-bdd9-49ddb304ed50" name="Changes" comment="" />
+    <list default="true" id="d8e1a0e9-5535-48a0-bdd9-49ddb304ed50" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="package-info" />
       </list>
     </option>
   </component>
@@ -46,35 +49,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SumCot">
-    <configuration name="AddArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baiArray.AddArray" />
-      <module name="module 2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="baiArray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.hinh2">
     <configuration name="Array2Chieu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baiArray.Array2Chieu" />
-      <module name="module 2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="baiArray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GopArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baiArray.GopArray" />
       <module name="module 2" />
       <extension name="coverage">
         <pattern>
@@ -112,13 +89,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="demohinh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop.demohinh" />
+      <module name="module 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hinh2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop.hinh2" />
+      <module name="module 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hinh2" />
+        <item itemvalue="Application.demohinh" />
         <item itemvalue="Application.SumCot" />
         <item itemvalue="Application.MinArray" />
         <item itemvalue="Application.Array2Chieu" />
-        <item itemvalue="Application.GopArray" />
-        <item itemvalue="Application.AddArray" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +137,8 @@
       <workItem from="1670996035533" duration="976000" />
       <workItem from="1671022424157" duration="2996000" />
       <workItem from="1671026188228" duration="1287000" />
-      <workItem from="1671629790538" duration="1480000" />
+      <workItem from="1671629790538" duration="2295000" />
+      <workItem from="1672286159922" duration="307000" />
     </task>
     <servers />
   </component>
