@@ -2,7 +2,7 @@ package CLassANDOject;
 
 import java.util.Scanner;
 
-public class StopWatch {
+public  class StopWatch {
     private long starTime;
     private long endTime;
 
@@ -31,7 +31,7 @@ public class StopWatch {
 
 
     //hàm bắt dầu
-    public void start() {
+    public  void start() {
         long a = System.currentTimeMillis();
         this.setStarTime(a);
     }
@@ -48,17 +48,5 @@ public class StopWatch {
     public long getElapsedTime() {
         long trave = this.getStarTime() - this.getEndTime();
         return trave;
-    }
-
-    public static void main(String[] args) {
-        stopwatch.StopWatch ojb = new stopwatch.StopWatch();
-        ojb.start();
-        try {
-            Thread.sleep(300);
-        } catch (InterruptedException e) {
-            throw new RuntimeException(e);
-        }
-        ojb.end();
-        System.out.println("The Elapsed time is: " + ojb.getElapsedTime() + " milisec");
     }
 }

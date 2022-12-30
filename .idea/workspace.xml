@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8e1a0e9-5535-48a0-bdd9-49ddb304ed50" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/untitled/src/baiArray/SumArray2Chieu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d8e1a0e9-5535-48a0-bdd9-49ddb304ed50" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,6 +137,7 @@
       <workItem from="1671026188228" duration="1287000" />
       <workItem from="1671629790538" duration="2295000" />
       <workItem from="1672286159922" duration="1973000" />
+      <workItem from="1672395258942" duration="298000" />
     </task>
     <servers />
   </component>
