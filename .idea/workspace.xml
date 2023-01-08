@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8e1a0e9-5535-48a0-bdd9-49ddb304ed50" name="Changes" comment="" />
+    <list default="true" id="d8e1a0e9-5535-48a0-bdd9-49ddb304ed50" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/untitled/src/CaseStudy/task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module 2/CLassANDOject/Quadraticequation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/module 2/CLassANDOject/Quadraticequation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/CLassANDOject/test.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,16 +49,16 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StopWatch">
-    <configuration name="DocSo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intructorJava.DocSo" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classfan.Main" />
       <module name="module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intructorJava.*" />
+          <option name="PATTERN" value="classfan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quadraticequation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CLassANDOject.Quadraticequation" />
+    <configuration name="MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LISTDONGIAN.MyListTest" />
       <module name="module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CLassANDOject.*" />
+          <option name="PATTERN" value="LISTDONGIAN.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolanXuathiencuachuoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baiArray.SolanXuathiencuachuoi" />
+    <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CaseStudy.task1" />
       <module name="module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baiArray.*" />
+          <option name="PATTERN" value="CaseStudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StopWatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CLassANDOject.StopWatch" />
+    <configuration name="task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CaseStudy.task3" />
       <module name="module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CLassANDOject.*" />
+          <option name="PATTERN" value="CaseStudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumArray2Chieu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baiArray.SumArray2Chieu" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KeThua.kethua1.test" />
       <module name="module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baiArray.*" />
+          <option name="PATTERN" value="KeThua.kethua1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StopWatch" />
-        <item itemvalue="Application.Quadraticequation" />
-        <item itemvalue="Application.SolanXuathiencuachuoi" />
-        <item itemvalue="Application.SumArray2Chieu" />
-        <item itemvalue="Application.DocSo" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.task3" />
+        <item itemvalue="Application.task1" />
+        <item itemvalue="Application.MyListTest" />
+        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +142,14 @@
       <workItem from="1671026188228" duration="1287000" />
       <workItem from="1671629790538" duration="2295000" />
       <workItem from="1672286159922" duration="1973000" />
-      <workItem from="1672395258942" duration="298000" />
+      <workItem from="1672395258942" duration="1112000" />
+      <workItem from="1672398162325" duration="4191000" />
+      <workItem from="1672403763602" duration="691000" />
+      <workItem from="1672836263370" duration="2719000" />
+      <workItem from="1673010253619" duration="1919000" />
+      <workItem from="1673012206126" duration="732000" />
+      <workItem from="1673014250783" duration="772000" />
+      <workItem from="1673158899492" duration="258000" />
     </task>
     <servers />
   </component>
